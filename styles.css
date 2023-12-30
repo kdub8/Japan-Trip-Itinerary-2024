@@ -1,6 +1,40 @@
 body {
     margin: 0;
-    background: rgb(211, 165, 0);
+    background: rgb(87, 134, 209);
     text-align: left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.left {
+    display: block;
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 30%;
+}
+
+.right {
+    display: block;
+    margin-right: 1000px;
+    width: 30%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+}
+
+p,
+div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
 }
